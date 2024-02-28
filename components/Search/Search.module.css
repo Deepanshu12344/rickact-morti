@@ -1,0 +1,6 @@
+.border {
+    &:focus{
+
+        outline: none; /* Remove the default focus outline */
+    }
+}
